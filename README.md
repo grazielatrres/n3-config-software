@@ -31,7 +31,7 @@ git clone https://github.com/seu-usuario/pokeapp.git
 Navegue até a pasta do projeto e instale as dependências utilizando npm ou yarn.
 
 ```
-cd pokeapp
+cd pokeapi-n3
 ```
 ```
 npm install
